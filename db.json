@@ -1,0 +1,39 @@
+{
+  "smartReply": [
+    {
+      "id": "1",
+      "reponse": "Bonjour, je comprends votre frustration et je suis désolée pour ce délai. Je vais faire le nécessaire pour revenir vers vous au plus vite. Merci pour votre patience.",
+      "resume_message": "Client mécontent et agacé par l'absence de réponse.",
+      "suggestions": [
+        "Bonjour, je prends note de votre message et je m'excuse pour le retard. Je reviens vers vous rapidement.",
+        "Bonjour, je suis désolée pour ce silence. Je fais le point et je vous réponds dans les meilleurs délais.",
+        "Bonjour, merci pour votre relance. Je comprends votre agacement et je vous recontacte très rapidement."
+      ],
+      "signature_auto": "Bien à vous, Maryse"
+    },
+    {
+      "id": "20d7",
+      "message": "Bonjour, seriez-vous disponible pour un rendez-vous la semaine prochaine afin de discuter de notre collaboration ?",
+      "ton": "chaleureux",
+      "infos_dispos": [
+        "Lundi 10h-12h",
+        "Mardi 14h-17h",
+        "Jeudi 9h-11h"
+      ],
+      "langue": "fr"
+    },
+    {
+      "id": "58cc",
+      "message": "Bonjour Maryse jaurais besoin de vos disponibilité de la semaine , Paul.",
+      "ton": "professionnel",
+      "infos_dispos": [
+        "Lundi 8h-12h",
+        "Mardi 8h-12h",
+        "Mercredi 8h-12h",
+        "Jeudi 8h-12h",
+        "Vendredi 8h-12h"
+      ],
+      "langue": "fr"
+    }
+  ]
+}
