@@ -34,6 +34,19 @@
         "Vendredi 8h-12h"
       ],
       "langue": "fr"
+    },
+    {
+      "id": "e8a5",
+      "message": "bonjours madame pagette mon nom est Réal je voudrais savoir vos disponibilité pour la semaine",
+      "ton": "chaleureux",
+      "infos_dispos": [
+        "Lundi 10h à 16h",
+        "Mardi 10h à 16h",
+        "Mercredi 10h à 16h",
+        "Jeudi 10h à 16h",
+        "Vendredi 10h à 16h"
+      ],
+      "langue": "fr"
     }
   ]
 }
