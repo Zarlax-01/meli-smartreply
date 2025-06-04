@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "echo '✅ Démarrage du serveur JSON...' && npx json-server --watch db.json --routes routes.json --port $PORT"
+    "start": "echo '✅ Démarrage du serveur JSON...' && npx json-server --watch db.json --routes routes.json --port $PORT",
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
@@ -12,5 +13,9 @@
   "type": "commonjs",
   "dependencies": {
     "json-server": "^1.0.0-beta.3"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.1.1"
   }
 }
